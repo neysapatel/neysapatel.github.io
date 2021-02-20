@@ -125,6 +125,12 @@
     text-size-adjust: 80%;
   }
 
+  .about-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   .my-projects {
     padding: 20px 0;
     padding-bottom: 100px;
