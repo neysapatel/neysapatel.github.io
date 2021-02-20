@@ -18,7 +18,7 @@
     color: #ffffff;
     font-family: Arvo, serif;
     font-weight: 100;
-    background-image: url(background1.jpg);
+    background-image: url(background.jpg);
     background-attachment: scroll;
     background-position: center center;
     background-repeat: no-repeat;
@@ -106,7 +106,6 @@
     font-size: 2em;
     text-align: center;
     font-weight: 700;
-    padding: 5px;
   }
 
   #about-title,
@@ -116,7 +115,7 @@
   }
 
   #projects-title {
-  color: #D11A0A;
+  color: #E11584;
   }
 
   .flex-desc {
@@ -130,7 +129,6 @@
 
   .my-projects {
     padding: 20px 0;
-    padding-top: 100px;
     padding-bottom: 100px;
     background-color: #E6F0F7;
     font-family: Arvo, serif;
@@ -199,9 +197,37 @@
   }
 
   .my-resume {
-    padding-top: 100px;
     padding-bottom: 100px;
     font-family: Arvo, serif;
     background-color: #EFEBF0;
   }
   
+  footer{
+    background-color: #E6F0F7;
+    text-align: center;
+    position: relative;
+  }
+
+  #contact {
+    font-size: 25px;
+    color: #E11584;
+    padding-top: 50px;
+  }
+
+  .networks {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+  }
+
+  .networks i {
+    color: #0A1172;
+    padding: 30px;
+    font-size: 35px;
+  }
+
+.footer-name {
+  color: #4C516D;
+  text-align: left;
+  font-size: 15px;
+}
