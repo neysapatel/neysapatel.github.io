@@ -1,1 +1,0 @@
-# neysapatel.github.io

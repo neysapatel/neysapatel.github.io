@@ -18,7 +18,7 @@
     color: #ffffff;
     font-family: Arvo, serif;
     font-weight: 100;
-    background-image: url(background.jpg);
+    background-image: url(images/background.jpg);
     background-attachment: scroll;
     background-position: center center;
     background-repeat: no-repeat;
@@ -166,15 +166,15 @@
   }
 
   .project-pic.fake-news {
-    background-image: url("fake-news.jpg");
+    background-image: url("images/crochetella.jpg");
   }
 
   .project-pic.sentilizer {
-    background-image: url("sentiment.jpg");
+    background-image: url("images/sentiment.jpg");
   }
 
   .project-pic.tldr {
-    background-image: url("tldr.png");
+    background-image: url("images/tldr.png");
   }
 
   .project-body {
