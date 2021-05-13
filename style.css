@@ -74,7 +74,7 @@
   }
 
   #home-desc {
-    color: #000080;
+    color: #E2A8FE;
     max-width:650px;
     font-size: 20px;
   }
@@ -165,7 +165,7 @@
     background-position: center center;
   }
 
-  .project-pic.fake-news {
+  .project-pic.crochetella {
     background-image: url("images/crochetella.jpg");
   }
 
@@ -175,6 +175,10 @@
 
   .project-pic.tldr {
     background-image: url("images/tldr.png");
+  }
+
+  .project-pic.p2048 {
+    background-image: url("images/2048.png");
   }
 
   .project-body {
